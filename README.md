@@ -54,3 +54,13 @@ _For example:_
 localStorage.clear();
 ```
 • **length** - number of records in the folder.# Markdown syntax guide
+
+## Usage
+To use this repository, follow these steps:
+1. Clone the repository to your local computer;
+2. Go to the repository directory;
+3. Run each task following the instructions described in the corresponding task file.
+
+## Author
+This repository was created and maintained by [Oleksii Shevchenko](https://shevchenkool.github.io/portfolio/). Questions, suggestions, and feedback can be directed to [email](uzlabini@gmail.com) or [linkedin profile](linkedin.com/in/oleksii-shevchenko-535ab61b8).
+
